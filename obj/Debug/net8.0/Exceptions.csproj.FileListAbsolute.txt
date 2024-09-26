@@ -1,0 +1,14 @@
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\bin\Debug\net8.0\Exceptions.exe
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\bin\Debug\net8.0\Exceptions.deps.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\bin\Debug\net8.0\Exceptions.runtimeconfig.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\bin\Debug\net8.0\Exceptions.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\bin\Debug\net8.0\Exceptions.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfoInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\Exceptions.AssemblyInfo.cs
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\Exceptions.csproj.CoreCompileInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\Exceptions.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\refint\Exceptions.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\Exceptions.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\Exceptions.genruntimeconfig.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Exceptions\obj\Debug\net8.0\ref\Exceptions.dll
